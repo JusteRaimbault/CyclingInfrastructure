@@ -1,0 +1,3 @@
+[submodule "Docs/Papers/CyclingInfrastructure-paper"]
+	path = Docs/Papers/CyclingInfrastructure-paper
+	url = git@github.com:JusteRaimbault/CyclingInfrastructure-paper.git
